@@ -12,6 +12,6 @@ A brief descriptor of folders added to the path:
 
 'subfunc' : miscellaneous scripts, functions
 
-Tested on MATLAB 2020b, 2019b and 2017b
+Tested on MATLAB 2020b and 2017b
 
 Typical run time on standard desktop, <2 minutes on 16 GB RAM, 8GB graphics, i7 2.8GHZ
