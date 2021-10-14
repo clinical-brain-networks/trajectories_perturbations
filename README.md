@@ -6,7 +6,7 @@ A brief descriptor of folders added to the path:
 
 'evaluated_data' : this contains all necessary processed data. It includes grouped, within session PHATE evaluated data for all participants across all sessions and trial conditions for correct and incorrect trials. It also contains participant behavioral performance (i.e. task accuracy) and region-of-interest (iPS) response for all participants during baseline and iPS sessions.
 
-'neurosynth_inputs' : this was based on the approach for maps generated in Marguiles et al (2016) in Proc. Natl Acad. Sci. this is a reference folder containining the .nii used to generate NeuroSynth association maps presented in Supplementary Figure 1.
+'neurosynth_inputs' : this was based on the approach for maps generated in Marguiles et al (2016) in Proc. Natl Acad. Sci. this is a reference folder containining the .nii used to generate NeuroSynth association maps presented in Supplementary Figure 2.
 
 'BrainGraphTools' : Scripts adapted from https://git.bcbl.eu/brainhackdonostia/material-2019/-/blob/master/fMRI/graph_theory/PlotBrainGraph.m 
 
