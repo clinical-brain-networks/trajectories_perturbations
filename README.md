@@ -1,4 +1,4 @@
-# trajectories_perturbations
+# Low-dimensional trajectories analysis of TMS-fMRI data
 
 Low-dimensional trajectories analysis of TMS-fMRI data
 
