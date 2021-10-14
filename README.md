@@ -1,7 +1,5 @@
 # Low-dimensional trajectories analysis of TMS-fMRI data
 
-Low-dimensional trajectories analysis of TMS-fMRI data
-
 Ensure that all folders are on the MATLAB path and run 'main_manifold_analysis.m'. This will generate a number of figures (including Supplementary figures) and readouts pertaining to the manuscript.
 
 A brief descriptor of folders added to the path:
