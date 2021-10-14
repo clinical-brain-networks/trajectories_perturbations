@@ -8,8 +8,6 @@ A brief descriptor of folders added to the path:
 
 'neurosynth_inputs' : this was based on the approach for maps generated in Marguiles et al (2016) in Proc. Natl Acad. Sci. this is a reference folder containining the .nii used to generate NeuroSynth association maps presented in Supplementary Figure 2.
 
-'BrainGraphTools' : Scripts adapted from https://git.bcbl.eu/brainhackdonostia/material-2019/-/blob/master/fMRI/graph_theory/PlotBrainGraph.m 
-
 'subfunc' : miscellaneous scripts, functions
 
 Tested on MATLAB 2020b and 2017b
